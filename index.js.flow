@@ -1,0 +1,4 @@
+declare export default function useEffect(
+  create: () => mixed,
+  inputs: Array<mixed>
+): void;
