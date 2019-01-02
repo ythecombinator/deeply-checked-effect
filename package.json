@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "React hook for handling deep object comparison in React's useEffect hook",
   "main": "index.js",
-  "repository": "https://github.com/rehooks/DeeplyCheckedEffect",
-  "author": "Matheus <ythecombinator.space>",
+  "repository": "https://github.com/rehooks/deeply-checked-effect",
+  "author": "Matheus Albuquerque <ythecombinator.space>",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
