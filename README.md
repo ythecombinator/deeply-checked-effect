@@ -31,3 +31,15 @@ function UseEffect({ state }) {
   return <div />;
 }
 ```
+
+### API
+
+The `useEffect(create, inputs)` hook takes two parameters and has no return. The mentioned parameters are:
+
+#### `create`
+
+A function that contains imperative, possibly effectful code and is directly invoked inside a regular React's `useEffect` hook.
+
+#### `inputs`
+
+The array of values that the effect depends on and that will be deeply compared for changes.
