@@ -26,7 +26,6 @@ function UseDeeplyCheckedEffect({ state }) {
 
 function App() {
   const [state, setState] = useState({ count: 1 });
-  const [state2, setState2] = useState({ count: 1 });
 
   return (
     <div>
